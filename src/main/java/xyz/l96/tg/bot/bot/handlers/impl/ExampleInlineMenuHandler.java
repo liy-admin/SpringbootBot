@@ -1,4 +1,4 @@
-package com.github.unafraid.spring.bot.handlers.impl;
+package xyz.l96.tg.bot.bot.handlers.impl;
 
 import com.github.unafraid.telegrambot.handlers.inline.AbstractInlineHandler;
 import com.github.unafraid.telegrambot.handlers.inline.InlineButtonBuilder;
@@ -42,12 +42,12 @@ public class ExampleInlineMenuHandler extends AbstractInlineHandler {
 				.button(new InlineButtonBuilder(ctx)
 						.name("Button 1")
 						.onQueryCallback(this::handleButtonClick)
-						.row(0)
+						.row(1)
 						.build())
 				.button(new InlineButtonBuilder(ctx)
 						.name("Button 2")
 						.onQueryCallback(this::handleButtonClick)
-						.row(0)
+						.row(1)
 						.build())
 				.button(new InlineButtonBuilder(ctx)
 						.name("Button 3")

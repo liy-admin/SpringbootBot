@@ -1,4 +1,4 @@
-package com.github.unafraid.spring.config;
+package xyz.l96.tg.bot.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

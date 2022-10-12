@@ -1,4 +1,4 @@
-package com.github.unafraid.spring.config;
+package xyz.l96.tg.bot.config;
 
 import javax.validation.constraints.NotEmpty;
 import javax.validation.constraints.NotNull;
@@ -13,17 +13,17 @@ import org.springframework.validation.annotation.Validated;
 @Configuration
 @Validated
 public class TelegramBotConfig {
-	@Value("${TELEGRAM_TOKEN}")
+	@Value("${TELEGRAM.TOKEN}")
 	@NotNull
 	@NotEmpty
 	private String token;
 	
-	@Value("${TELEGRAM_USERNAME}")
+	@Value("${TELEGRAM.USERNAME}")
 	@NotNull
 	@NotEmpty
 	private String username;
 	
-	@Value("${TELEGRAM_URL}")
+	@Value("${TELEGRAM.URL}")
 	@NotNull
 	@NotEmpty
 	private String url;

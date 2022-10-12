@@ -1,4 +1,4 @@
-package com.github.unafraid.spring.bot;
+package xyz.l96.tg.bot.bot;
 
 import com.github.unafraid.telegrambot.handlers.IAccessLevelValidator;
 import com.github.unafraid.telegrambot.handlers.ITelegramHandler;

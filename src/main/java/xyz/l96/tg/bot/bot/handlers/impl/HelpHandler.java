@@ -1,4 +1,4 @@
-package com.github.unafraid.spring.bot.handlers.impl;
+package xyz.l96.tg.bot.bot.handlers.impl;
 
 import java.util.ArrayList;
 import java.util.LinkedHashMap;

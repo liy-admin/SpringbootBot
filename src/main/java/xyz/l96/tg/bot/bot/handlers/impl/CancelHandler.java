@@ -1,4 +1,4 @@
-package com.github.unafraid.spring.bot.handlers.impl;
+package xyz.l96.tg.bot.bot.handlers.impl;
 
 import com.github.unafraid.telegrambot.bots.AbstractTelegramBot;
 import com.github.unafraid.telegrambot.handlers.ICancelHandler;

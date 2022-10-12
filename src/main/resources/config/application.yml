@@ -3,4 +3,9 @@ spring:
     name: telegram-bot
 
 server:
-  port: ${PORT:9090}
+  port: ${PORT:5000}
+
+TELEGRAM:
+  TOKEN: "5651247244:AAFzRZFPYDbN9I7Oou3pGZ35gBRFCpFPsRU"
+  USERNAME: "jie_mabot"
+  URL: "https://533b-203-91-85-66.ap.ngrok.io"

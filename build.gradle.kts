@@ -6,7 +6,7 @@ plugins {
     distribution
 }
 
-group = "com.github.unafraid"
+group = "xyz.l96.tg.bot"
 version = "1.0.0-SNAPSHOT"
 
 configure<JavaPluginExtension> {
@@ -30,6 +30,7 @@ dependencies {
     api("com.github.unafraid.telegram-apis:InlineMenuAPI:1.0.13")
     api("org.jetbrains:annotations:23.0.0")
     testImplementation("org.springframework.boot:spring-boot-starter-test")
+    testImplementation("junit:junit:4.11")
 }
 
 configurations.all {
@@ -49,7 +50,7 @@ tasks.withType<Jar> {
     manifest {
         attributes["Built-By"] = System.getProperty("user.name")
         attributes["Implementation-URL"] = "https://github.com/UnAfraid/SpringTelegramBot/"
-        attributes["Main-Class"] = "com.github.unafraid.spring.Application"
+        attributes["Main-Class"] = "xyz.l96.tg.bot.Application"
         attributes["Class-Path"] = configurations.runtimeClasspath.get().joinToString(" ") { it.name }
     }
 }

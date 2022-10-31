@@ -15,6 +15,7 @@ configure<JavaPluginExtension> {
 }
 
 configurations {
+
     compileOnly {
         extendsFrom(annotationProcessor.get())
     }
@@ -25,12 +26,14 @@ repositories {
 }
 
 dependencies {
+    implementation ("com.google.code.gson:gson:2.9.0")
+    implementation ("org.springframework.boot:spring-boot-devtools") //热加载
     api("org.springframework.boot:spring-boot-starter-web")
-    api("org.telegram:telegrambots-meta:5.7.1")
+    api("org.telegram:telegrambots-meta:6.1.0")
     api("com.github.unafraid.telegram-apis:InlineMenuAPI:1.0.13")
     api("org.jetbrains:annotations:23.0.0")
+    testImplementation("junit:junit:4.12")
     testImplementation("org.springframework.boot:spring-boot-starter-test")
-    testImplementation("junit:junit:4.11")
 }
 
 configurations.all {

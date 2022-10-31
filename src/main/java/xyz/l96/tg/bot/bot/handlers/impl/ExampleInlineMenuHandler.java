@@ -19,22 +19,22 @@ public class ExampleInlineMenuHandler extends AbstractInlineHandler {
 	public String getUsage() {
 		return "/menu";
 	}
-	
+
 	@Override
 	public String getDescription() {
 		return "Renders static menu";
 	}
-	
+
 	@Override
 	public String getCommand() {
 		return "/menu";
 	}
-	
+
 	@Override
 	public int getRequiredAccessLevel() {
 		return 1;
 	}
-	
+
 	@Override
 	public void registerMenu(InlineContext ctx, InlineMenuBuilder builder) {
 		builder
@@ -76,10 +76,10 @@ public class ExampleInlineMenuHandler extends AbstractInlineHandler {
 						.build())
 				.button(defaultClose(ctx));
 	}
-	
+
 	private boolean handleButtonClick(InlineCallbackEvent event) throws TelegramApiException {
 		final InlineUserData userData = event.getContext().getUserData(event.getQuery().getFrom().getId());
-		final AnswerCallbackQuery answer = new AnswerCallbackQuery();
+		final AnswerCallbackQuery answer	 = new AnswerCallbackQuery();
 		answer.setCallbackQueryId(event.getQuery().getId());
 		answer.setShowAlert(true);
 		answer.setText("You've clicked at " + userData.getActiveButton().getName());

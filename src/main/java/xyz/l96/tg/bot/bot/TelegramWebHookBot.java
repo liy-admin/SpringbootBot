@@ -7,6 +7,7 @@ import com.github.unafraid.telegrambot.handlers.ICommandHandler;
 import org.jetbrains.annotations.NotNull;
 import org.springframework.beans.factory.ObjectProvider;
 import org.springframework.context.ApplicationContext;
+import org.springframework.util.StringUtils;
 import org.telegram.telegrambots.bots.DefaultBotOptions;
 import org.telegram.telegrambots.meta.api.methods.BotApiMethod;
 import org.telegram.telegrambots.meta.api.objects.Update;
@@ -31,9 +32,10 @@ public abstract class TelegramWebHookBot extends DefaultTelegramBot implements W
 	
 	@Override
 	public final BotApiMethod<?> onWebhookUpdateReceived(Update update) {
-		if (update != null) {
-			onUpdateReceived(update);
-		}
+
+		onUpdateReceived(update);
 		return null;
 	}
+
+
 }

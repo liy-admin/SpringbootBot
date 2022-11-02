@@ -1,0 +1,1178 @@
+[
+    {
+        "id": "vk",
+        "title": "Вконтакте/VKConnect"
+    },
+    {
+        "id": "wb",
+        "title": "WeChat"
+    },
+    {
+        "id": "tg",
+        "title": "Telegram"
+    },
+    {
+        "id": "ok",
+        "title": "Одноклассники"
+    },
+    {
+        "id": "ig",
+        "title": "Instagram"
+    },
+    {
+        "id": "wa",
+        "title": "Whatsapp"
+    },
+    {
+        "id": "vi",
+        "title": "Viber"
+    },
+    {
+        "id": "go",
+        "title": "Google,youtube,Gmail"
+    },
+    {
+        "id": "fb",
+        "title": "facebook"
+    },
+    {
+        "id": "tw",
+        "title": "Twitter"
+    },
+    {
+        "id": "ub",
+        "title": "Uber"
+    },
+    {
+        "id": "gt",
+        "title": "Gett"
+    },
+    {
+        "id": "sn",
+        "title": "OLX"
+    },
+    {
+        "id": "ma",
+        "title": "Mail.ru"
+    },
+    {
+        "id": "uk",
+        "title": "Airbnb"
+    },
+    {
+        "id": "me",
+        "title": "Line messenger"
+    },
+    {
+        "id": "mb",
+        "title": "Yahoo"
+    },
+    {
+        "id": "we",
+        "title": "ДругВокруг"
+    },
+    {
+        "id": "bd",
+        "title": "X5ID"
+    },
+    {
+        "id": "dt",
+        "title": "Delivery Club"
+    },
+    {
+        "id": "ya",
+        "title": "Яндекс"
+    },
+    {
+        "id": "mt",
+        "title": "Steam"
+    },
+    {
+        "id": "oi",
+        "title": "Tinder"
+    },
+    {
+        "id": "fd",
+        "title": "Mamba"
+    },
+    {
+        "id": "kt",
+        "title": "KakaoTalk"
+    },
+    {
+        "id": "pm",
+        "title": "AOL"
+    },
+    {
+        "id": "tn",
+        "title": "LinkedIN"
+    },
+    {
+        "id": "qq",
+        "title": "Tencent QQ"
+    },
+    {
+        "id": "mg",
+        "title": "Магнит"
+    },
+    {
+        "id": "pf",
+        "title": "pof.com"
+    },
+    {
+        "id": "yl",
+        "title": "Yalla"
+    },
+    {
+        "id": "kl",
+        "title": "kolesa.kz"
+    },
+    {
+        "id": "nv",
+        "title": "Naver"
+    },
+    {
+        "id": "nf",
+        "title": "Netflix"
+    },
+    {
+        "id": "iq",
+        "title": "icq"
+    },
+    {
+        "id": "ob",
+        "title": "Onlinerby"
+    },
+    {
+        "id": "im",
+        "title": "Imo"
+    },
+    {
+        "id": "mc",
+        "title": "Michat"
+    },
+    {
+        "id": "ds",
+        "title": "Discord"
+    },
+    {
+        "id": "ji",
+        "title": "Monobank"
+    },
+    {
+        "id": "lf",
+        "title": "TikTok/Douyin"
+    },
+    {
+        "id": "hu",
+        "title": "Ukrnet"
+    },
+    {
+        "id": "wg",
+        "title": "Skout"
+    },
+    {
+        "id": "rz",
+        "title": "EasyPay"
+    },
+    {
+        "id": "rr",
+        "title": "Wolt"
+    },
+    {
+        "id": "fe",
+        "title": "CliQQ"
+    },
+    {
+        "id": "gp",
+        "title": "Ticketmaster"
+    },
+    {
+        "id": "am",
+        "title": "Amazon"
+    },
+    {
+        "id": "ly",
+        "title": "Olacabs"
+    },
+    {
+        "id": "tc",
+        "title": "Rambler"
+    },
+    {
+        "id": "dp",
+        "title": "ProtonMail"
+    },
+    {
+        "id": "pg",
+        "title": "NRJ Music Awards"
+    },
+    {
+        "id": "yf",
+        "title": "Citymobil"
+    },
+    {
+        "id": "qr",
+        "title": "MEGA"
+    },
+    {
+        "id": "yk",
+        "title": "СпортМастер"
+    },
+    {
+        "id": "ls",
+        "title": "Careem"
+    },
+    {
+        "id": "bl",
+        "title": "BIGO LIVE"
+    },
+    {
+        "id": "fu",
+        "title": "Snapchat"
+    },
+    {
+        "id": "bf",
+        "title": "Keybase "
+    },
+    {
+        "id": "sg",
+        "title": "OZON"
+    },
+    {
+        "id": "uu",
+        "title": "Wildberries"
+    },
+    {
+        "id": "ua",
+        "title": "BlaBlaCar"
+    },
+    {
+        "id": "ab",
+        "title": "Alibaba"
+    },
+    {
+        "id": "zy",
+        "title": "Nttgame"
+    },
+    {
+        "id": "gd",
+        "title": "Surveytime"
+    },
+    {
+        "id": "tl",
+        "title": "Truecaller"
+    },
+    {
+        "id": "hm",
+        "title": "Globus"
+    },
+    {
+        "id": "tx",
+        "title": "Bolt"
+    },
+    {
+        "id": "ka",
+        "title": "Shopee"
+    },
+    {
+        "id": "pl",
+        "title": "Перекресток"
+    },
+    {
+        "id": "cm",
+        "title": "Prom"
+    },
+    {
+        "id": "hw",
+        "title": "AliPay"
+    },
+    {
+        "id": "jc",
+        "title": "IVI"
+    },
+    {
+        "id": "rl",
+        "title": "inDriver"
+    },
+    {
+        "id": "df",
+        "title": "Happn"
+    },
+    {
+        "id": "nz",
+        "title": "Foodpanda"
+    },
+    {
+        "id": "kf",
+        "title": "Weibo"
+    },
+    {
+        "id": "cc",
+        "title": "Quipp"
+    },
+    {
+        "id": "za",
+        "title": "JDcom"
+    },
+    {
+        "id": "da",
+        "title": "MTS CashBack"
+    },
+    {
+        "id": "zr",
+        "title": "Papara"
+    },
+    {
+        "id": "xv",
+        "title": "Wish"
+    },
+    {
+        "id": "cx",
+        "title": "Icrypex"
+    },
+    {
+        "id": "li",
+        "title": "Baidu"
+    },
+    {
+        "id": "dz",
+        "title": "Dominos Pizza"
+    },
+    {
+        "id": "xz",
+        "title": "paycell"
+    },
+    {
+        "id": "rd",
+        "title": "Lenta"
+    },
+    {
+        "id": "qb",
+        "title": "Payberry"
+    },
+    {
+        "id": "hz",
+        "title": "Drom"
+    },
+    {
+        "id": "zk",
+        "title": "Deliveroo"
+    },
+    {
+        "id": "ht",
+        "title": "Hotmail"
+    },
+    {
+        "id": "ts",
+        "title": "PayPal"
+    },
+    {
+        "id": "re",
+        "title": "Coinbase"
+    },
+    {
+        "id": "wc",
+        "title": "craigslist"
+    },
+    {
+        "id": "dh",
+        "title": "Ebay"
+    },
+    {
+        "id": "oh",
+        "title": "MapleSEA"
+    },
+    {
+        "id": "ew",
+        "title": "Nike"
+    },
+    {
+        "id": "ee",
+        "title": "Twilio"
+    },
+    {
+        "id": "uh",
+        "title": "Yubo"
+    },
+    {
+        "id": "cn",
+        "title": "Fiverr"
+    },
+    {
+        "id": "ij",
+        "title": "Revolut"
+    },
+    {
+        "id": "hn",
+        "title": "1688"
+    },
+    {
+        "id": "dl",
+        "title": "Lazada"
+    },
+    {
+        "id": "eu",
+        "title": "LiveScore"
+    },
+    {
+        "id": "an",
+        "title": "Adidas"
+    },
+    {
+        "id": "dn",
+        "title": "PaxFuL"
+    },
+    {
+        "id": "vm",
+        "title": "Okcupid"
+    },
+    {
+        "id": "jq",
+        "title": "paysafecard"
+    },
+    {
+        "id": "pu",
+        "title": "JustDating "
+    },
+    {
+        "id": "wh",
+        "title": "Tantan"
+    },
+    {
+        "id": "xk",
+        "title": "DIDI"
+    },
+    {
+        "id": "fj",
+        "title": "Potato Chat"
+    },
+    {
+        "id": "yp",
+        "title": "PayZapp"
+    },
+    {
+        "id": "zm",
+        "title": "offerup"
+    },
+    {
+        "id": "wx",
+        "title": "Apple"
+    },
+    {
+        "id": "mj",
+        "title": "Zalo"
+    },
+    {
+        "id": "zh",
+        "title": "Zoho"
+    },
+    {
+        "id": "qd",
+        "title": "Taobao"
+    },
+    {
+        "id": "gx",
+        "title": "hepsiburada"
+    },
+    {
+        "id": "bz",
+        "title": "Blizzard"
+    },
+    {
+        "id": "cq",
+        "title": "Mercado"
+    },
+    {
+        "id": "rt",
+        "title": "Hily"
+    },
+    {
+        "id": "uz",
+        "title": "OffGamers"
+    },
+    {
+        "id": "yw",
+        "title": "Grindr"
+    },
+    {
+        "id": "ge",
+        "title": "PayTM"
+    },
+    {
+        "id": "os",
+        "title": "Dhani"
+    },
+    {
+        "id": "ql",
+        "title": "CMT Cuzdan"
+    },
+    {
+        "id": "si",
+        "title": "CITA PREVIA"
+    },
+    {
+        "id": "fm",
+        "title": "Touchance"
+    },
+    {
+        "id": "jl",
+        "title": "Hopi"
+    },
+    {
+        "id": "rv",
+        "title": "Kotak 811"
+    },
+    {
+        "id": "au",
+        "title": "Haraj"
+    },
+    {
+        "id": "db",
+        "title": "ezbuy "
+    },
+    {
+        "id": "pk",
+        "title": "pokes"
+    },
+    {
+        "id": "nr",
+        "title": "Tosla"
+    },
+    {
+        "id": "hy",
+        "title": "ininal"
+    },
+    {
+        "id": "tr",
+        "title": "paysend"
+    },
+    {
+        "id": "tq",
+        "title": "Swvl"
+    },
+    {
+        "id": "ph",
+        "title": "Snapp Food"
+    },
+    {
+        "id": "lp",
+        "title": "Algida"
+    },
+    {
+        "id": "jm",
+        "title": "mzadqatar "
+    },
+    {
+        "id": "nk",
+        "title": "Gittigidiyor"
+    },
+    {
+        "id": "rm",
+        "title": "Faberlic"
+    },
+    {
+        "id": "ti",
+        "title": "cryptocom"
+    },
+    {
+        "id": "uo",
+        "title": "CafeBazaar "
+    },
+    {
+        "id": "pt",
+        "title": "Bitaqaty"
+    },
+    {
+        "id": "un",
+        "title": "humblebundle "
+    },
+    {
+        "id": "ud",
+        "title": "Disney Hotstar"
+    },
+    {
+        "id": "bt",
+        "title": "Alfalah"
+    },
+    {
+        "id": "cf",
+        "title": "irancell"
+    },
+    {
+        "id": "ul",
+        "title": "Getir"
+    },
+    {
+        "id": "fs",
+        "title": "Şikayet var "
+    },
+    {
+        "id": "pa",
+        "title": "Gamekit"
+    },
+    {
+        "id": "vn",
+        "title": "Yaay"
+    },
+    {
+        "id": "ve",
+        "title": "Dream11"
+    },
+    {
+        "id": "qh",
+        "title": "Oriflame"
+    },
+    {
+        "id": "iu",
+        "title": "Bykea"
+    },
+    {
+        "id": "zv",
+        "title": "Digikala"
+    },
+    {
+        "id": "wn",
+        "title": "GameArena "
+    },
+    {
+        "id": "el",
+        "title": "Bisu"
+    },
+    {
+        "id": "nd",
+        "title": "egopensooq"
+    },
+    {
+        "id": "wj",
+        "title": "1xbet"
+    },
+    {
+        "id": "yi",
+        "title": "Yemeksepeti"
+    },
+    {
+        "id": "ia",
+        "title": "Socios"
+    },
+    {
+        "id": "xl",
+        "title": "Wmaraci"
+    },
+    {
+        "id": "ae",
+        "title": "myGLO"
+    },
+    {
+        "id": "qe",
+        "title": "GG"
+    },
+    {
+        "id": "sv",
+        "title": "Dostavista"
+    },
+    {
+        "id": "zl",
+        "title": "Airtel"
+    },
+    {
+        "id": "lw",
+        "title": "MrGreen"
+    },
+    {
+        "id": "co",
+        "title": "Rediffmail"
+    },
+    {
+        "id": "ey",
+        "title": "miloan"
+    },
+    {
+        "id": "py",
+        "title": "Monese"
+    },
+    {
+        "id": "sw",
+        "title": "NCsoft"
+    },
+    {
+        "id": "ff",
+        "title": "AVON"
+    },
+    {
+        "id": "sd",
+        "title": "dodopizza"
+    },
+    {
+        "id": "ry",
+        "title": "McDonalds"
+    },
+    {
+        "id": "qa",
+        "title": "MyFishka"
+    },
+    {
+        "id": "kw",
+        "title": "Foody"
+    },
+    {
+        "id": "jg",
+        "title": "Grab"
+    },
+    {
+        "id": "pp",
+        "title": "Huya"
+    },
+    {
+        "id": "th",
+        "title": "WestStein"
+    },
+    {
+        "id": "xr",
+        "title": "Tango"
+    },
+    {
+        "id": "iz",
+        "title": "Global24"
+    },
+    {
+        "id": "tk",
+        "title": "МВидео"
+    },
+    {
+        "id": "rx",
+        "title": "Sheerid"
+    },
+    {
+        "id": "ki",
+        "title": "99app"
+    },
+    {
+        "id": "my",
+        "title": "CAIXA"
+    },
+    {
+        "id": "yo",
+        "title": "Amasia"
+    },
+    {
+        "id": "ib",
+        "title": "Immowelt"
+    },
+    {
+        "id": "ev",
+        "title": "Picpay"
+    },
+    {
+        "id": "qn",
+        "title": "Blued"
+    },
+    {
+        "id": "cd",
+        "title": "SpotHit"
+    },
+    {
+        "id": "vo",
+        "title": "Brand20ua"
+    },
+    {
+        "id": "il",
+        "title": "IQOS"
+    },
+    {
+        "id": "vc",
+        "title": "Banqi"
+    },
+    {
+        "id": "jj",
+        "title": "Aitu"
+    },
+    {
+        "id": "ot",
+        "title": "Любой другой"
+    },
+    {
+        "id": "qo",
+        "title": "Moneylion"
+    },
+    {
+        "id": "na",
+        "title": "Nana"
+    },
+    {
+        "id": "bu",
+        "title": "B4ucabs"
+    },
+    {
+        "id": "af",
+        "title": "galaxy.win"
+    },
+    {
+        "id": "sr",
+        "title": "starchat.site"
+    },
+    {
+        "id": "al",
+        "title": "Finn.no"
+    },
+    {
+        "id": "lt",
+        "title": "BitClout"
+    },
+    {
+        "id": "ek",
+        "title": "Unacademy"
+    },
+    {
+        "id": "vu",
+        "title": "Kaidee"
+    },
+    {
+        "id": "fn",
+        "title": "Quikr"
+    },
+    {
+        "id": "nl",
+        "title": "Myntra"
+    },
+    {
+        "id": "cp",
+        "title": "uklon"
+    },
+    {
+        "id": "be",
+        "title": "Сбермегамаркет"
+    },
+    {
+        "id": "ke",
+        "title": "Эльдорадо"
+    },
+    {
+        "id": "zo",
+        "title": "kaggle"
+    },
+    {
+        "id": "km",
+        "title": "Rozetka"
+    },
+    {
+        "id": "aq",
+        "title": "glovo"
+    },
+    {
+        "id": "az",
+        "title": "CityBase"
+    },
+    {
+        "id": "wl",
+        "title": "YouGotaGift"
+    },
+    {
+        "id": "io",
+        "title": "ЗдравСити"
+    },
+    {
+        "id": "jr",
+        "title": "Самокат"
+    },
+    {
+        "id": "et",
+        "title": "Clubhouse"
+    },
+    {
+        "id": "yn",
+        "title": "Allegro"
+    },
+    {
+        "id": "hc",
+        "title": "Momo"
+    },
+    {
+        "id": "hx",
+        "title": "aliexpress"
+    },
+    {
+        "id": "ak",
+        "title": "douyu"
+    },
+    {
+        "id": "vp",
+        "title": "kwai"
+    },
+    {
+        "id": "uf",
+        "title": "eneba.com"
+    },
+    {
+        "id": "yu",
+        "title": "Xiaomi"
+    },
+    {
+        "id": "hj",
+        "title": "Столото"
+    },
+    {
+        "id": "qz",
+        "title": "FaceIT"
+    },
+    {
+        "id": "fz",
+        "title": "KFC"
+    },
+    {
+        "id": "gc",
+        "title": "TradingView"
+    },
+    {
+        "id": "og",
+        "title": "okko"
+    },
+    {
+        "id": "hb",
+        "title": "twitch"
+    },
+    {
+        "id": "sb",
+        "title": "lamoda"
+    },
+    {
+        "id": "lv",
+        "title": "megogo"
+    },
+    {
+        "id": "jf",
+        "title": "likee"
+    },
+    {
+        "id": "sh",
+        "title": "ВкусВилл"
+    },
+    {
+        "id": "qj",
+        "title": "whoosh"
+    },
+    {
+        "id": "zf",
+        "title": "ontaxi"
+    },
+    {
+        "id": "bv",
+        "title": "METRO"
+    },
+    {
+        "id": "kc",
+        "title": "Vinted"
+    },
+    {
+        "id": "ol",
+        "title": "KazanExpress"
+    },
+    {
+        "id": "xj",
+        "title": "СберМаркет"
+    },
+    {
+        "id": "dy",
+        "title": "zomato"
+    },
+    {
+        "id": "gv",
+        "title": "Humta"
+    },
+    {
+        "id": "dw",
+        "title": "Divar"
+    },
+    {
+        "id": "gj",
+        "title": "Carousell"
+    },
+    {
+        "id": "kn",
+        "title": "Verse"
+    },
+    {
+        "id": "px",
+        "title": "Nifty"
+    },
+    {
+        "id": "jh",
+        "title": "PingPong"
+    },
+    {
+        "id": "sk",
+        "title": "Skroutz"
+    },
+    {
+        "id": "tt",
+        "title": "Ziglu"
+    },
+    {
+        "id": "ou",
+        "title": "Gabi"
+    },
+    {
+        "id": "es",
+        "title": "iQIYI"
+    },
+    {
+        "id": "pd",
+        "title": "IFood"
+    },
+    {
+        "id": "zw",
+        "title": "Quack"
+    },
+    {
+        "id": "gm",
+        "title": "Mocospace"
+    },
+    {
+        "id": "fi",
+        "title": "Dundle"
+    },
+    {
+        "id": "ue",
+        "title": "Onet"
+    },
+    {
+        "id": "xf",
+        "title": "LightChat"
+    },
+    {
+        "id": "bp",
+        "title": "GoFundMe"
+    },
+    {
+        "id": "vy",
+        "title": "Meta"
+    },
+    {
+        "id": "ea",
+        "title": "JamesDelivery"
+    },
+    {
+        "id": "vg",
+        "title": "ShellBox"
+    },
+    {
+        "id": "nq",
+        "title": "Trip"
+    },
+    {
+        "id": "nu",
+        "title": "Stripe"
+    },
+    {
+        "id": "wp",
+        "title": "163com"
+    },
+    {
+        "id": "oz",
+        "title": "Poshmark"
+    },
+    {
+        "id": "xq",
+        "title": "MPL"
+    },
+    {
+        "id": "xs",
+        "title": "GroupMe"
+    },
+    {
+        "id": "ww",
+        "title": "BIP"
+    },
+    {
+        "id": "vd",
+        "title": "Betfair"
+    },
+    {
+        "id": "tp",
+        "title": "IndiaGold"
+    },
+    {
+        "id": "tf",
+        "title": "Noon"
+    },
+    {
+        "id": "td",
+        "title": "ChaingeFinance"
+    },
+    {
+        "id": "va",
+        "title": "SportGully"
+    },
+    {
+        "id": "sj",
+        "title": "HandyPick"
+    },
+    {
+        "id": "ra",
+        "title": "KeyPay"
+    },
+    {
+        "id": "qi",
+        "title": "23red"
+    },
+    {
+        "id": "ne",
+        "title": "Coindcx"
+    },
+    {
+        "id": "qf",
+        "title": "RedBook"
+    },
+    {
+        "id": "ph",
+        "title": "SnappFood"
+    },
+    {
+        "id": "dm",
+        "title": "Iwplay"
+    },
+    {
+        "id": "dv",
+        "title": "NoBroker"
+    },
+    {
+        "id": "ni",
+        "title": "Gojek"
+    },
+    {
+        "id": "ku",
+        "title": "RoyalWin"
+    },
+    {
+        "id": "en",
+        "title": "Hermes"
+    },
+    {
+        "id": "rj",
+        "title": "Детский мир"
+    },
+    {
+        "id": "ys",
+        "title": "ZCity"
+    },
+    {
+        "id": "mm",
+        "title": "Microsoft"
+    },
+    {
+        "id": "cl",
+        "title": "ClickEntregas"
+    },
+    {
+        "id": "sq",
+        "title": "KuCoin"
+    },
+    {
+        "id": "pr",
+        "title": "Trendyol"
+    },
+    {
+        "id": "ju",
+        "title": "Indomaret"
+    }
+]
